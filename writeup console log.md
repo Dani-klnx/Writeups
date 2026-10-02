@@ -1,6 +1,6 @@
 # Writeup: Console Log - Red Team Report
 
-**Autor:** [Tu Nombre/Alias]  
+**Autor:** Dani-kl
 **Dificultad:** Fácil / Intermedia  
 **Vectores de Ataque:** Fuga de información en código fuente (JavaScript), Directory Listing, Análisis de código Node.js, Fuerza bruta de usuarios de SSH (Hydra), Abuso de privilegios Sudo (Nano).
 
