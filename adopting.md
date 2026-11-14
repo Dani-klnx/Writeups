@@ -1,7 +1,7 @@
 # Adopting-DockerLabsES
 
 > **Autor:** `dani-kl` · **Plataforma:** DockerLabs (ES) · **Objetivo:** `http://172.17.0.2:2300`
-> **Tipo:** laboratorio autorizado (CTF, black-box) · **Fecha:** 14-11-2026 · **Resultado:** `root` 💀
+> **Tipo:** laboratorio autorizado · **Fecha:** 14-11-2026 · **Resultado:** `root` 💀
 
 ## 1 Encender laboratorio.
 
